@@ -116,7 +116,7 @@ namespace CSharpTutA.cs
             // You can convert from string to other types with Parse
             bool boolFromStr = bool.Parse("True");
             int intFromStr = int.Parse("100");
-            double dblFromStr = double.Parse("1.234");
+            //double dblFromStr = double.Parse("1.234");
 
             // ---------- DATETIME & TIMESPAN ----------
 
